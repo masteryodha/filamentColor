@@ -1,0 +1,18 @@
+{
+    "vendor": "iCAN" ,
+    "spools": [
+        {
+            "material": "Silk PLA",
+            "name": "White",
+            "color": "#DBD9D0",
+            "note": "website printscreen"
+        },
+        {
+            "material": "PLA",
+            "name": "Transparent Blue",
+            "color": "#2DB1EF",
+            "note": "website printscreen"
+        }
+    ]
+
+}

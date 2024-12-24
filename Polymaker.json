@@ -1,0 +1,82 @@
+{
+    "vendor": "Polymaker" ,
+    "spools": [
+        {
+            "material": "PolyTerra PLA+",
+            "name": "Blue",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyTerra PLA",
+            "name": "Glacier (Ice-Blue)",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "COPE",
+            "name": "Green",
+            "color": "#06924D"
+        },
+        {
+            "material": "PolyLite PLA",
+            "name": "Jadeite (Silk Green and Chrome)",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyTerra PLA+",
+            "name": "Lime Green",
+            "color": "#D0E740"
+        },
+        {
+            "material": "PolyTerra PETG",
+            "name": "Orange",
+            "color": "#FF671F"
+        },
+        {
+            "material": "PolyTerra PLA",
+            "name": "Pastel Periwinkle",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyTerra PLA",
+            "name": "Periwinkle (Mauve)",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyLite PETG",
+            "name": "Purple",
+            "color": "#6E3FA3"
+        },
+        {
+            "material": "Panchroma Luminous PLA",
+            "name": "Rainbow",
+            "color": "#FFFFFF"
+        },
+
+        {
+            "material": "PolyTerra PLA",
+            "name": "Sovereign Silk Gold and Purple",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyTerra PLA",
+            "name": "Flamingo (Dual pink-red)",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyLite PLA",
+            "name": "Lime Green",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyLite PLA",
+            "name": "Glow in the dark Green",
+            "color": "#FFFFFF"
+        },
+        {
+            "material": "PolyLite PLA",
+            "name": "Sovereign Silk Gold and Purple",
+            "color": "#FFFFFF"
+        }
+    ]
+
+}

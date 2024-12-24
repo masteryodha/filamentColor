@@ -1,0 +1,22 @@
+{
+    "vendor": "Sunlu" ,
+    "spools": [
+        {
+            "material": "TPU",
+            "name": "Blue",
+            "color": "#0244BD"
+        },
+        {
+            "material": "PLA",
+            "name": "Rainbow",
+            "color": "#EF7370"
+        },
+        {
+            "material": "PLA Meta",
+            "name": "Blue",
+            "color": "#2297CC"
+        }
+
+    ]
+
+}

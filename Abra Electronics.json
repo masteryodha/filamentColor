@@ -1,0 +1,12 @@
+{
+    "vendor": "Abra Electronics" ,
+    "spools": [
+        {
+            "material": "PLA",
+            "name": "Gold",
+            "color": "#EABD65",
+            "note": "website printscreen"
+        }
+    ]
+
+}

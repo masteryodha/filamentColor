@@ -1,0 +1,16 @@
+{
+    "vendor": "FlashForge" ,
+    "spools": [
+        {
+            "material": "PLA PRO",
+            "name": "Luminous Blue",
+            "color": "#B4B3A9"
+        },
+        {
+            "material": "PLA",
+            "name": "Orange",
+            "color": "#F66801"
+        }
+    ]
+
+}

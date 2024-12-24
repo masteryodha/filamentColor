@@ -1,0 +1,11 @@
+{
+    "vendor": "Sakata 3D" ,
+    "spools": [
+        {
+            "material": "PLA 850",
+            "name": "White",
+            "color": "#E7E4D6"
+        }
+    ]
+
+}

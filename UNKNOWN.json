@@ -1,0 +1,16 @@
+{
+    "vendor": "UNKNOWN" ,
+    "spools": [
+        {
+            "material": "Shining PLA",
+            "name": "Pink",
+            "color": "#DD95A2"
+        },
+        {
+            "material": "PLA",
+            "name": "White",
+            "color": "#FDFCFD"
+        }
+    ]
+
+}

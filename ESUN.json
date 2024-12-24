@@ -1,0 +1,11 @@
+{
+    "vendor": "ESUN" ,
+    "spools": [
+        {
+            "material": "Hyper PLA",
+            "name": "Black",
+            "color": "#FFFFFF"
+        }
+    ]
+
+}
