@@ -4,12 +4,15 @@
         {
             "material": "PolyTerra PLA+",
             "name": "Blue",
-            "color": "#FFFFFF"
+            "color": "#0064B9"
         },
         {
             "material": "PolyTerra PLA",
             "name": "Glacier (Ice-Blue)",
-            "color": "#FFFFFF"
+            "color1": "#BFE4F2",
+            "color2": "#0376C2",
+            "color3": "#BFE4F2",
+            "color4": "#0376C2"
         },
         {
             "material": "COPE",
