@@ -5,6 +5,11 @@
             "material": "Hyper PLA",
             "name": "Black",
             "color": "#FFFFFF"
+        },
+        {
+            "material": "PETG",
+            "name": "Light Grey",
+            "color": "#6A7082"
         }
     ]
 

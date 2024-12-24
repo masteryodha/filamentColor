@@ -46,6 +46,12 @@
             "name": "Light Grey",
             "color": "#808080"
         }
+        ,
+        {
+            "material": "PLA",
+            "name": "Peacock Blue",
+            "color": "#30C4FE"
+        }
     ]
 
 }

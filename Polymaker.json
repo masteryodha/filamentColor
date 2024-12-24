@@ -28,12 +28,12 @@
             "color4": "#34CAAA"
         },
         {
-            "material": "PolyTerra PLA+",
+            "material": "PolyTerra PLA",
             "name": "Lime Green",
             "color": "#D0E740"
         },
         {
-            "material": "PolyTerra PETG",
+            "material": "PolyLite PETG",
             "name": "Orange",
             "color": "#FF671F"
         },
