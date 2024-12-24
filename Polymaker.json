@@ -22,7 +22,10 @@
         {
             "material": "PolyLite PLA",
             "name": "Jadeite (Silk Green and Chrome)",
-            "color": "#FFFFFF"
+            "color1": "#37769C",
+            "color2": "#34CAAA",
+            "color3": "#37769C",
+            "color4": "#34CAAA"
         },
         {
             "material": "PolyTerra PLA+",
@@ -37,12 +40,12 @@
         {
             "material": "PolyTerra PLA",
             "name": "Pastel Periwinkle",
-            "color": "#FFFFFF"
+            "color": "#B598DB"
         },
         {
             "material": "PolyTerra PLA",
             "name": "Periwinkle (Mauve)",
-            "color": "#FFFFFF"
+            "color": "#B598DB"
         },
         {
             "material": "PolyLite PETG",
@@ -52,33 +55,56 @@
         {
             "material": "Panchroma Luminous PLA",
             "name": "Rainbow",
-            "color": "#FFFFFF"
-        },
+            "color1": "#B8C565",
+            "color2": "#E97DBB",
+            "color3": "#44AD9E",
+            "color4": "#7592AA"
 
+        },
         {
             "material": "PolyTerra PLA",
             "name": "Sovereign Silk Gold and Purple",
-            "color": "#FFFFFF"
+            "color1": "#AB802A",
+            "color2": "#5E4A95",
+            "color3": "#AB802A",
+            "color4": "#5E4A95"
         },
         {
             "material": "PolyTerra PLA",
             "name": "Flamingo (Dual pink-red)",
-            "color": "#FFFFFF"
+            "color1": "#FDD9E7",
+            "color2": "#DA5A60",
+            "color3": "#FDD9E7",
+            "color4": "#DA5A60"
         },
         {
             "material": "PolyLite PLA",
             "name": "Lime Green",
-            "color": "#FFFFFF"
+            "color": "#DEDE00"
         },
         {
             "material": "PolyLite PLA",
             "name": "Glow in the dark Green",
-            "color": "#FFFFFF"
+            "color1": "#14AA45",
+            "color2": "#E6DDC9",
+            "color3": "#14AA45",
+            "color4": "#E6DDC9"
         },
         {
             "material": "PolyLite PLA",
             "name": "Sovereign Silk Gold and Purple",
-            "color": "#FFFFFF"
+            "color1": "#AB802A",
+            "color2": "#5E4A95",
+            "color3": "#AB802A",
+            "color4": "#5E4A95"
+        },
+        {
+            "material": "PolyLite PLA",
+            "name": "Sunset (Gold and Red)",
+            "color1": "#C86930",
+            "color2": "#B63B01",
+            "color3": "#C86930",
+            "color4": "#B63B01"
         }
     ]
 

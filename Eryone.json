@@ -50,7 +50,7 @@
             "name": "Galaxy Sparkly Glitter Blue",
             "color": "#2A3E72"
         },
-        ,{
+        {
             "material": "PETG",
             "name": "Galaxy Sparkly Glitter Blue",
             "color": "#2A3E72"
@@ -58,7 +58,10 @@
         {
             "material": "Metal Silk",
             "name": "Rainbow",
-            "color": "#FFFFFF"
+            "color1": "#8D834D",
+            "color2": "#2BCB5B",
+            "color3": "#7B2D78",
+            "color4": "#992B3A"
         },
         {
             "material": "Cerprise Silk PLA",

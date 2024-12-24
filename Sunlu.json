@@ -9,7 +9,10 @@
         {
             "material": "PLA",
             "name": "Rainbow",
-            "color": "#EF7370"
+            "color1": "#C13438",
+            "color2": "#FD8F45",
+            "color3": "#97637E",
+            "color4": "#97F6BF"
         },
         {
             "material": "PLA Meta",
