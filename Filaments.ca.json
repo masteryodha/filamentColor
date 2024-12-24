@@ -4,17 +4,47 @@
         {
             "material": "EconoFil PETG",
             "name": "Army Green",
-            "color": "#FFFFFF"
+            "color": "#4b5320"
         },
         {
             "material": "EconoFil PLA",
             "name": "Baby Blue",
-            "color": "#FFFFFF"
+            "color": "#5bc5ff"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "China Red",
+            "color": "#F61F1F"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "Dark Brown",
+            "color": "#9a5630"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "Dark Orange",
+            "color": "#FF8A00"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "Golden",
+            "color": "#D49A06"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "Grey",
+            "color": "#808080"
         },
         {
             "material": "Ecotough PLA",
             "name": "Black",
-            "color": "#FFFFFF"
+            "color": "#000000"
+        },
+        {
+            "material": "Ecotough PLA",
+            "name": "Light Grey",
+            "color": "#808080"
         }
     ]
 

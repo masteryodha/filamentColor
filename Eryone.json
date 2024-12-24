@@ -2,9 +2,68 @@
     "vendor": "Eryone" ,
     "spools": [
         {
-            "material": "Hyper PLA",
-            "name": "Black",
+            "material": "Wood PLA",
+            "name": "Light Wood",
+            "color": "#95786C"
+        },
+        {
+            "material": "Ultra Silk PLA",
+            "name": "Red",
+            "color": "#C13243"
+        },
+        {
+            "material": "TPU",
+            "name": "Transparent",
+            "color": "#000000"
+        },
+        {
+            "material": "TOU",
+            "name": "Transparent Blue",
+            "color": "#1F4BC8"
+        },
+        {
+            "material": "Silk PLA",
+            "name": "Dark Green",
+            "color": "#51645D"
+        },
+        {
+            "material": "PLA - Scented Filament",
+            "name": "Jasmine (white)",
+            "color": "#F3EDE4"
+        },
+        {
+            "material": "PLA - Scented Filament",
+            "name": "Lavender (Mauve)",
+            "color": "#7649AB"
+        },
+        {
+            "material": "PLA - Scented Filament",
+            "name": "Rose (red)",
+            "color": "#C02F2D"
+        },
+        {
+            "material": "PLA - Scented Filament",
+            "name": "Tulip (yellow)",
+            "color": "#FEDA40"
+        },{
+            "material": "PLA",
+            "name": "Galaxy Sparkly Glitter Blue",
+            "color": "#2A3E72"
+        },
+        ,{
+            "material": "PETG",
+            "name": "Galaxy Sparkly Glitter Blue",
+            "color": "#2A3E72"
+        },
+        {
+            "material": "Metal Silk",
+            "name": "Rainbow",
             "color": "#FFFFFF"
+        },
+        {
+            "material": "Cerprise Silk PLA",
+            "name": "Bronze",
+            "color": "#8D8D6F"
         }
     ]
 
