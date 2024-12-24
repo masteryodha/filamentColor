@@ -52,6 +52,12 @@
             "name": "Peacock Blue",
             "color": "#30C4FE"
         }
+        ,
+        {
+            "material": "TPU",
+            "name": "Yellow",
+            "color": "#DFC80A"
+        }
     ]
 
 }
