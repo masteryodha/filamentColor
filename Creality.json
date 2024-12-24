@@ -1,0 +1,11 @@
+{
+    "vendor": "Filaments.ca" ,
+    "filaments": [
+        {
+            "material": "Hyper PLA",
+            "name": "Black",
+            "color": "#ffc095"
+        }
+    ]
+
+}

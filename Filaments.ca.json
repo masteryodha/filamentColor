@@ -1,0 +1,21 @@
+{
+    "vendor": "Filaments.ca" ,
+    "filaments": [
+        {
+            "material": "EconoFil PETG",
+            "name": "Army Green",
+            "color": "#ffc095"
+        },
+        {
+            "material": "EconoFil PLA",
+            "name": "Baby Blue",
+            "color": "#ffc095"
+        },
+        {
+            "material": "Ecotough PLA",
+            "name": "Black",
+            "color": "#ffc095"
+        }
+    ]
+
+}
