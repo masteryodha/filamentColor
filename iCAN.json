@@ -4,14 +4,12 @@
         {
             "material": "Silk PLA",
             "name": "White",
-            "color": "#DBD9D0",
-            "note": "website printscreen"
+            "color": "#DBD9D0"
         },
         {
             "material": "PLA",
             "name": "Transparent Blue",
-            "color": "#2DB1EF",
-            "note": "website printscreen"
+            "color": "#2DB1EF"
         }
     ]
 

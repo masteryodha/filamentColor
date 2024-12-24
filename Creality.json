@@ -4,14 +4,12 @@
         {
             "material": "Hyper PLA",
             "name": "Black",
-            "color": "#292B2B",
-            "note": "website printscreen"
+            "color": "#292B2B"
         },
         {
             "material": "CR-PLA Matte",
             "name": "Navy Blue",
-            "color": "#323D56",
-            "note": "website printscreen"
+            "color": "#323D56"
         }
     ]
 
