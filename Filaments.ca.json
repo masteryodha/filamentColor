@@ -1,6 +1,6 @@
 {
     "vendor": "Filaments.ca" ,
-    "filaments": [
+    "spools": [
         {
             "material": "EconoFil PETG",
             "name": "Army Green",
